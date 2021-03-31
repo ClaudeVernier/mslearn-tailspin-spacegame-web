@@ -1,3 +1,4 @@
+[![Build Status](https://claudevernier.visualstudio.com/Space%20Game%20-%20web%20-%20Workflow/_apis/build/status/ClaudeVernier.mslearn-tailspin-spacegame-web?branchName=master)](https://claudevernier.visualstudio.com/Space%20Game%20-%20web%20-%20Workflow/_build/latest?definitionId=9&branchName=master)
 
 # Contributing
 
